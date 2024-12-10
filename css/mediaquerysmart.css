@@ -21,4 +21,12 @@
     .steps .col {
         width:100% ;
     }
+    .why-us{
+        background-color: black;
+        margin-bottom: 0;
+    }
+    .why-us,
+    .steps{
+        margin-bottom: 0;
+    }
 }
